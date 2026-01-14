@@ -144,6 +144,9 @@ SELECT * FROM tax_payroll ORDER BY id;
 -- 1. Select all columns from customers
 SELECT * FROM customers;
 -- Note: all customer details
+## Query 1 Output
+![Query 1 Output](outputs/q1.png)
+
 
 -- 2. Select only customer_name and city from customers
 SELECT customer_name, city FROM customers;
